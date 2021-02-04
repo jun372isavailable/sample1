@@ -1,0 +1,17 @@
+[33mcommit fc7e7cd267cf60b6447599341fa327a6f91173b9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-24-103.us-east-2.compute.internal>
+Date:   Thu Feb 4 08:12:53 2021 +0000
+
+    sample
+
+[33mcommit 6bd26e24affe0db64dbf9841d3a9c6cc3beaa3d7[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-24-103.us-east-2.compute.internal>
+Date:   Thu Feb 4 07:40:04 2021 +0000
+
+    second commit
+
+[33mcommit afd67663e9312abfd44bf3e6784e8b4dd79edac2[m
+Author: EC2 Default User <ec2-user@ip-172-31-24-103.us-east-2.compute.internal>
+Date:   Thu Feb 4 07:38:33 2021 +0000
+
+    first commit
